@@ -1,12 +1,11 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-#import plotly.express as px
-import matplotlib as plt
-from matplotlib import pyplot as pllt
-#import matplotlib.pyplot as plt
-#import matplotlib
-plt.use("Agg")
+import plotly.express as px
+pip install matplotlib
+import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use("Agg")
 import seaborn as sns
 import os
 import streamlit.components as stc
