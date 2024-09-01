@@ -2,9 +2,9 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 #import plotly.express as px
-import matplotlib.pyplot as plt
-import matplotlib
-matplotlib.use("Agg")
+#import matplotlib.pyplot as plt
+#import matplotlib
+#matplotlib.use("Agg")
 import seaborn as sns
 import os
 import streamlit.components as stc
